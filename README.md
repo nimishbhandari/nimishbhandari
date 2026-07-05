@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Nimish%20Bhandari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Products%20%26%20Scalable%20Web%20Platforms&descAlignY=58&descSize=18" width="100%"/>
-</p>
+<h1 align="center">Nimish Bhandari</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Building+with+OpenAI+%26+ElevenLabs;Full-Stack+MERN+%2F+TypeScript+Engineer;60%25+profitability+bump%2C+shipped;30%25+of+revenue%2C+one+portal" />
@@ -108,7 +106,3 @@ Social network with JWT auth · **1,500+** users
 **Madan Mohan Malaviya University of Technology**, Gorakhpur, India
 B.Tech, Electronics & Communication Engineering · GPA 7.3 · Jul 2019 – Jun 2023
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer" width="100%"/>
-</p>
-</content>
